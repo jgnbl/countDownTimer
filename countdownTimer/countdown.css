@@ -1,0 +1,13 @@
+* {
+  background-image: linear-gradient(to right, #2E4053 , #52BE80);
+      color: white;
+      text-align: center;
+}
+header {
+  padding-top: 8%;
+  opacity: 10%;
+}
+
+h1 {
+  font-size: 2.5em;
+}
